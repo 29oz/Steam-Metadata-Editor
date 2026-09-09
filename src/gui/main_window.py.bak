@@ -26,12 +26,6 @@ from tkinter.ttk import Treeview, Style
 
 from config import config
 from appinfo import Appinfo
-from utils import (
-    build_appmanifest,
-    get_last_owner,
-    register_app_in_library,
-    unregister_app,
-)
 
 from gui.widgets import (
     Frame,
@@ -152,7 +146,6 @@ class MainWindow:
         self.rightSortAsFrame = Frame(self.rightContainerFrame)
         self.rightDeveloperFrame = Frame(self.rightContainerFrame)
         self.rightPublisherFrame = Frame(self.rightContainerFrame)
-        self.rightInstalledFrame = Frame(self.rightContainerFrame)
         self.rightReleaseStateFrame = Frame(self.rightContainerFrame)
         self.rightOgReleaseFrame = Frame(self.rightContainerFrame)
         self.rightSteamReleaseFrame = Frame(self.rightContainerFrame)
@@ -170,18 +163,14 @@ class MainWindow:
 
         self.appListScrollbar = Scrollbar(self.leftFrame)
 
-        self.appList = Treeview(
-            self.leftFrame, columns=("Type", "Mod", "Installed", "ID")
-        )
+        self.appList = Treeview(self.leftFrame, columns=("Type", "Mod", "ID"))
         self.appList.heading("#0", text="App Name")
         self.appList.heading("Type", text="Type")
         self.appList.heading("Mod", text="Modified")
-        self.appList.heading("Installed", text="Installed")
         self.appList.heading("ID", text="ID")
         self.appList.column("#0", width=300, stretch=False)
         self.appList.column("Type", width=50, minwidth=20)
         self.appList.column("Mod", width=55, minwidth=20)
-        self.appList.column("Installed", width=65, minwidth=20)
         self.appList.column("ID", width=80, minwidth=80)
         self.appList.bind("<<TreeviewSelect>>", self.fetch_app_data)
 
@@ -226,16 +215,6 @@ class MainWindow:
             self.rightPublisherFrame,
             width=40,
             textvariable=self.publisherVar,
-        )
-
-        self.installedLabel = Label(
-            self.rightInstalledFrame,
-            text="Installed:",
-        )
-        self.installedButton = Button(
-            self.rightInstalledFrame,
-            text="No",
-            command=self.toggle_install_state,
         )
 
         self.releaseStateLabel = Label(
@@ -321,9 +300,6 @@ class MainWindow:
         self.publisherLabel.pack(side="left")
         self.publisherEntry.pack(side="right")
 
-        self.installedLabel.pack(side="left")
-        self.installedButton.pack(side="right")
-
         self.releaseStateLabel.pack(side="left")
         self.releaseStateEntry.pack(side="right")
 
@@ -354,9 +330,6 @@ class MainWindow:
             side="top", fill="both", pady=config.ENTRY_PADDING
         )
         self.rightPublisherFrame.pack(
-            side="top", fill="both", pady=config.ENTRY_PADDING
-        )
-        self.rightInstalledFrame.pack(
             side="top", fill="both", pady=config.ENTRY_PADDING
         )
         self.rightReleaseStateFrame.pack(
@@ -396,242 +369,19 @@ class MainWindow:
             apps = [int(x) for x in config.APP_REGEX.findall(contents)]
 
         for library in libraries:
-            steamappsPath = os.path.join(library, "steamapps")
             for app in apps:
-                if app not in self.appinfo.parsedAppInfo:
-                    continue
                 install_dir = self.get_data_from_section(
                     app, "config", "installdir"
                 )
-                if not install_dir:
-                    continue
-                install_path = os.path.join(steamappsPath, "common", install_dir)
-                manifest = os.path.join(
-                    steamappsPath, f"appmanifest_{app}.acf"
+                install_path = os.path.join(
+                    library, "steamapps", "common", install_dir
                 )
-                # A game is only considered installed if Steam has
-                # registered it (manifest present) and its files exist
                 if not os.path.exists(install_path):
                     continue
-                if not os.path.isfile(manifest):
-                    continue
                 self.appinfo.parsedAppInfo[app]["installed"] = True
-                self.appinfo.parsedAppInfo[app]["install_path"] = install_path
-
-    def get_libraries(self):
-        lbryPath = os.path.join(
-            config.STEAM_PATH, "steamapps", "libraryfolders.vdf"
-        )
-        with open(lbryPath, "r") as libraries:
-            return config.PATH_REGEX.findall(libraries.read())
-
-    def find_app_manifest(self, app_id):
-        for library in self.get_libraries():
-            manifest = os.path.join(
-                library, "steamapps", f"appmanifest_{app_id}.acf"
-            )
-            if os.path.isfile(manifest):
-                return manifest
-        return None
-
-    def choose_library(self, libraries):
-        dialog = tk.Toplevel(self.window)
-        dialog.title("Choose Library")
-        dialog.config(bg=config.BG, padx=10, pady=10)
-        dialog.resizable(width=False, height=False)
-        dialog.grab_set()
-
-        Label(
-            dialog,
-            text="Select the library where the game is installed:",
-        ).pack(pady=(0, 10))
-
-        listbox = tk.Listbox(
-            dialog,
-            bg=config.ENTRY_BG,
-            fg=config.ENTRY_FG,
-            relief=config.ENTRY_RELIEF,
-            font=(config.FONT, 9),
-            width=60,
-            height=min(len(libraries), 6),
-            selectmode="browse",
-        )
-        for lib in libraries:
-            listbox.insert("end", lib)
-        listbox.selection_set(0)
-        listbox.pack()
-
-        chosen = []
-
-        def confirm():
-            selection = listbox.curselection()
-            if selection:
-                chosen.append(libraries[selection[0]])
-            dialog.destroy()
-
-        Button(dialog, text="OK", command=confirm).pack(pady=(10, 0))
-
-        self.window.wait_window(dialog)
-
-        return chosen[0] if chosen else None
-
-    def toggle_install_state(self):
-        try:
-            app_id = int(self.idVar.get())
-        except ValueError:
-            return
-
-        if self.appinfo.parsedAppInfo[app_id]["installed"]:
-            self.mark_app_uninstalled(app_id)
-        else:
-            self.mark_app_installed(app_id)
-
-    def mark_app_installed(self, app_id):
-        install_dir = self.get_data_from_section(app_id, "config", "installdir")
-        if not install_dir:
-            messagebox.showerror(
-                title="Error",
-                message='This application has no "installdir" in its'
-                + " config section, it can't be marked as installed.",
-            )
-            return
-
-        if not messagebox.askyesno(
-            title="Mark as Installed",
-            message="This will create appmanifest_" + str(app_id)
-            + ".acf (StateFlags 4), register the application in"
-            + " libraryfolders.vdf and create its install folder."
-            + "\n\nMake sure Steam is closed, otherwise it will"
-            + " overwrite the changes."
-            + "\n\nSteam may still want to verify the game's files"
-            + " on the next launch.\n\nContinue?",
-        ):
-            return
-
-        libraries = self.get_libraries()
-        if not libraries:
-            messagebox.showerror(
-                title="Error",
-                message="No libraries were found in libraryfolders.vdf.",
-            )
-            return
-
-        if len(libraries) > 1:
-            library = self.choose_library(libraries)
-            if library is None:
-                return
-        else:
-            library = libraries[0]
-
-        steamappsPath = os.path.join(library, "steamapps")
-        manifest = os.path.join(steamappsPath, f"appmanifest_{app_id}.acf")
-        if os.path.isfile(manifest) and not messagebox.askyesno(
-            title="Manifest Exists",
-            message="An appmanifest for this application already exists"
-            + " in the chosen library. Overwrite it?",
-        ):
-            return
-
-        install_path = os.path.join(steamappsPath, "common", install_dir)
-        os.makedirs(install_path, exist_ok=True)
-
-        # Get the current public buildid from the appinfo, if possible
-        buildid = "0"
-        branches = self.get_data_from_section(
-            app_id, "depots", "branches", error=None
-        )
-        if isinstance(branches, dict):
-            public = branches.get("public", {})
-            if isinstance(public, dict) and "buildid" in public:
-                buildid = public["buildid"]
-
-        manifest_contents = build_appmanifest(
-            app_id,
-            self.get_data_from_section(app_id, "common", "name"),
-            install_dir,
-            buildid,
-            get_last_owner(config.STEAM_PATH),
-        )
-
-        lbryPath = os.path.join(
-            config.STEAM_PATH, "steamapps", "libraryfolders.vdf"
-        )
-        try:
-            with open(manifest, "w") as appmanifest:
-                appmanifest.write(manifest_contents)
-
-            with open(lbryPath, "r") as libraries:
-                contents = libraries.read()
-            new_contents, success = register_app_in_library(
-                contents, library, app_id
-            )
-            if not success:
-                raise OSError("Couldn't register the app in the library")
-
-            with open(lbryPath, "w") as libraries:
-                libraries.write(new_contents)
-        except OSError as error:
-            messagebox.showerror(
-                title="Error",
-                message="Couldn't write the changes:\n" + str(error),
-            )
-            return
-
-        self.appinfo.parsedAppInfo[app_id]["installed"] = True
-        self.appinfo.parsedAppInfo[app_id]["install_path"] = install_path
-        self.installedButton.config(text="Yes")
-        self.appList.delete(*self.appList.get_children())
-        self.populate_app_list()
-
-        messagebox.showinfo(
-            title="Success!",
-            message="The application is now marked as installed.",
-        )
-
-    def mark_app_uninstalled(self, app_id):
-        if not messagebox.askyesno(
-            title="Mark as Not Installed",
-            message="This will remove the application from"
-            + " libraryfolders.vdf and rename its appmanifest, making"
-            + " Steam forget it is installed."
-            + "\n\nThe game files will NOT be deleted."
-            + "\n\nMake sure Steam is closed, otherwise it will"
-            + " overwrite the changes.\n\nContinue?",
-        ):
-            return
-
-        manifest = self.find_app_manifest(app_id)
-
-        lbryPath = os.path.join(
-            config.STEAM_PATH, "steamapps", "libraryfolders.vdf"
-        )
-        try:
-            with open(lbryPath, "r") as libraries:
-                contents = libraries.read()
-            new_contents = unregister_app(contents, app_id)
-            if new_contents != contents:
-                with open(lbryPath, "w") as libraries:
-                    libraries.write(new_contents)
-
-            if manifest:
-                os.replace(manifest, manifest + ".bak")
-        except OSError as error:
-            messagebox.showerror(
-                title="Error",
-                message="Couldn't write the changes:\n" + str(error),
-            )
-            return
-
-        self.appinfo.parsedAppInfo[app_id]["installed"] = False
-        self.appinfo.parsedAppInfo[app_id]["install_path"] = "."
-        self.installedButton.config(text="No")
-        self.appList.delete(*self.appList.get_children())
-        self.populate_app_list()
-
-        messagebox.showinfo(
-            title="Success!",
-            message="The application is now marked as not installed.",
-        )
+                self.appinfo.parsedAppInfo[app][
+                    "install_path"
+                ] = install_path
 
     def write_modifications(self):
         with open(f"{config.CONFIG_PATH}/modifications.json", "w") as mod:
@@ -807,7 +557,7 @@ class MainWindow:
             appID, "extended", "publisher"
         )
         appReleaseState = self.get_data_from_section(
-            appID, "common", "ReleaseState"
+            appID, "common", "release_state"
         )
         appSteamReleaseDate = self.get_data_from_section(
             appID, "common", "steam_release_date"
@@ -896,7 +646,7 @@ class MainWindow:
                 int(self.idVar.get()),
                 self.releaseStateVar.get(),
                 "common",
-                "ReleaseState",
+                "release_state",
             ),
         )
 
@@ -932,18 +682,12 @@ class MainWindow:
             lambda _a, _b, _c: self.set_timestamps("steam"),
         )
 
-        self.installedButton.config(
-            text="Yes"
-            if self.appinfo.parsedAppInfo[int(appID)]["installed"]
-            else "No"
-        )
-
     def insert_app_in_list(self, app):
         self.appList.insert(
             parent="",
             index="end",
             text=app[0],
-            values=(app[1], app[2], app[3], app[4]),
+            values=(app[1], app[2], app[3]),
         )
 
     def locate_app_in_list(self):
@@ -1487,15 +1231,7 @@ class MainWindow:
             if not appName or not appType:
                 pass
             else:
-                self.appData.append(
-                    [
-                        str(appName),
-                        appType,
-                        modified,
-                        self.appinfo.parsedAppInfo[appID]["installed"],
-                        appID,
-                    ]
-                )
+                self.appData.append([str(appName), appType, modified, appID])
 
         # Sort case-insensitive
         self.appData.sort(key=lambda x: str(x[0]).lower())

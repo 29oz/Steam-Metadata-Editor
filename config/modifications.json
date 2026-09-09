@@ -1,0 +1,2623 @@
+{
+  "4783780": {
+    "original": {
+      "appinfo": {
+        "appid": 4783780,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+          "type": "Game",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "exfgls": 1,
+          "eulas": {
+            "0": {
+              "id": "4783780_eula_1",
+              "name": "MW4 - Beta Game EULA",
+              "url": "https://store.steampowered.com//eula/4783780_eula_1",
+              "version": 1
+            }
+          },
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0628\u064a\u062a\u0627",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - B\u00e8ta",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beeta",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - B\u00eata",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30d9\u30fc\u30bf",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubca0\ud0c0",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0431\u0435\u0442\u0430-\u0442\u0435\u0441\u0442",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u8bd5\u73a9",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u516c\u6e2c",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e40\u0e1a\u0e15\u0e49\u0e32",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0431\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u0435"
+          },
+          "clienticon": "d5f178301f2fc710b72693bb299dc6eed8965b76",
+          "icon": "d5f178301f2fc710b72693bb299dc6eed8965b76",
+          "ReleaseState": "disabled",
+          "aicontenttype": "1",
+          "controllertagwizard": 1,
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "76e77b22c4c9e874ad565da068deee3569b831f4/capsule_231x87.jpg"
+          },
+          "header_image": {
+            "english": "8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg"
+          },
+          "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_hero_blur": "en",
+            "library_logo": "en",
+            "library_header": "en",
+            "logo_position": {
+              "pinned_position": "BottomCenter",
+              "width_pct": "40.519598906107575",
+              "height_pct": "30.695257717053437"
+            }
+          },
+          "library_assets_full": {
+            "library_capsule": {
+              "image": {
+                "english": "dfebb7ae692eee2c64d8c3340dadd56ae1093d6e/library_capsule.jpg"
+              },
+              "image2x": {
+                "english": "dfebb7ae692eee2c64d8c3340dadd56ae1093d6e/library_capsule_2x.jpg"
+              }
+            },
+            "library_hero": {
+              "image2x": {
+                "english": "35e51c60c79134fd742d98953e1a2dcbe34fbeb4/library_hero_2x.jpg"
+              },
+              "image": {
+                "english": "35e51c60c79134fd742d98953e1a2dcbe34fbeb4/library_hero.jpg"
+              }
+            },
+            "library_hero_blur": {
+              "image": {
+                "english": "35e51c60c79134fd742d98953e1a2dcbe34fbeb4/library_hero_blur.jpg"
+              }
+            },
+            "library_logo": {
+              "image": {
+                "english": "02bf74cd7af0662f400235b1db46a4b129457e05/logo.png"
+              },
+              "image2x": {
+                "english": "02bf74cd7af0662f400235b1db46a4b129457e05/logo_2x.png"
+              },
+              "logo_position": {
+                "pinned_position": "BottomCenter",
+                "width_pct": "40.519598906107575",
+                "height_pct": "30.695257717053437"
+              }
+            },
+            "library_header": {
+              "image": {
+                "english": "8c72205bfdf522bada8431d2aacbd1b6c66fac4c/library_header.jpg"
+              },
+              "image2x": {
+                "english": "8c72205bfdf522bada8431d2aacbd1b6c66fac4c/library_header_2x.jpg"
+              }
+            }
+          },
+          "store_asset_mtime": 1787941350,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Infinity Ward"
+            },
+            "1": {
+              "type": "developer",
+              "name": "Beenox"
+            },
+            "2": {
+              "type": "developer",
+              "name": "Digital Legends"
+            },
+            "3": {
+              "type": "developer",
+              "name": "Activision Shanghai"
+            },
+            "4": {
+              "type": "developer",
+              "name": "Raven Software"
+            },
+            "5": {
+              "type": "developer",
+              "name": "Treyarch"
+            },
+            "6": {
+              "type": "developer",
+              "name": "Sledgehammer Games"
+            },
+            "7": {
+              "type": "developer",
+              "name": "High Moon Studios"
+            },
+            "8": {
+              "type": "publisher",
+              "name": "Activision"
+            },
+            "9": {
+              "type": "franchise",
+              "name": "Call of Duty"
+            },
+            "10": {
+              "type": "franchise",
+              "name": "Modern Warfare"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1
+          },
+          "category": {
+            "category_23": 1,
+            "category_2": 1,
+            "category_1": 1,
+            "category_49": 1,
+            "category_36": 1,
+            "category_27": 1,
+            "category_18": 1,
+            "category_55": 1,
+            "category_56": 1,
+            "category_57": 1,
+            "category_58": 1,
+            "category_64": 1,
+            "category_65": 1,
+            "category_66": 1,
+            "category_67": 1,
+            "category_68": 1,
+            "category_69": 1,
+            "category_70": 1,
+            "category_74": 1,
+            "category_78": 1,
+            "category_79": 1,
+            "category_80": 1,
+            "category_45": 1,
+            "category_46": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "schinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "latam": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "community_hub_visible": 1,
+          "gameid": 4783780,
+          "store_tags": {
+            "0": 19,
+            "1": 1774,
+            "2": 1663,
+            "3": 4145,
+            "4": 3839,
+            "5": 4168,
+            "6": 5765,
+            "7": 1775,
+            "8": 6730,
+            "9": 3859,
+            "10": 1742,
+            "11": 3843,
+            "12": 4182
+          },
+          "review_score": 4,
+          "review_percentage": 34
+        },
+        "extended": {
+          "developer": "Infinity Ward",
+          "publisher": "Activision",
+          "homepage": "https://www.callofduty.com/modernwarfare4/beta"
+        },
+        "config": {
+          "installdir": "Modern Warfare 4 - Beta",
+          "launch": {
+            "0": {
+              "executable": "bootstrapper.exe",
+              "arguments": "cod26-cod.exe",
+              "type": "default",
+              "config": {
+                "oslist": "windows",
+                "osarch": "64"
+              }
+            }
+          }
+        },
+        "depots": {
+          "4783781": {},
+          "4783782": {
+            "manifests": {
+              "public": {
+                "gid": "2652132447606849432",
+                "size": "48936458950",
+                "download": "46203844640"
+              }
+            }
+          },
+          "4783783": {
+            "manifests": {
+              "public": {
+                "gid": "6266261563234905629",
+                "size": 781364083,
+                "download": 394721936
+              }
+            }
+          },
+          "4783784": {
+            "config": {
+              "language": "english"
+            },
+            "manifests": {
+              "public": {
+                "gid": "294383838837726168",
+                "size": 509020077,
+                "download": 423295184
+              }
+            }
+          },
+          "4783785": {
+            "config": {
+              "language": "french"
+            },
+            "manifests": {
+              "public": {
+                "gid": "3418336288087719779",
+                "size": 540974420,
+                "download": 454056880
+              }
+            }
+          },
+          "4783786": {
+            "config": {
+              "language": "german"
+            },
+            "manifests": {
+              "public": {
+                "gid": "1853646411630344794",
+                "size": 542277746,
+                "download": 457383808
+              }
+            }
+          },
+          "4783787": {
+            "config": {
+              "language": "italian"
+            },
+            "manifests": {
+              "public": {
+                "gid": "2359933204470555045",
+                "size": 575763770,
+                "download": 490873168
+              }
+            }
+          },
+          "4783788": {
+            "config": {
+              "language": "spanish"
+            },
+            "manifests": {
+              "public": {
+                "gid": "2206166676104149545",
+                "size": 570363261,
+                "download": 485994528
+              }
+            }
+          },
+          "4783789": {
+            "config": {
+              "language": "koreana"
+            },
+            "manifests": {
+              "public": {
+                "gid": "7808045828660455155",
+                "size": 1536374048,
+                "download": 878509536
+              }
+            }
+          },
+          "4784140": {
+            "config": {
+              "language": "brazilian"
+            },
+            "manifests": {
+              "public": {
+                "gid": "8649150717483882142",
+                "size": 548055555,
+                "download": 463808896
+              }
+            }
+          },
+          "4784141": {
+            "config": {
+              "language": "latam"
+            },
+            "manifests": {
+              "public": {
+                "gid": "5736531904449317332",
+                "size": 556008428,
+                "download": 471434432
+              }
+            }
+          },
+          "4784142": {
+            "config": {
+              "language": "tchinese"
+            },
+            "manifests": {
+              "public": {
+                "gid": "6060425366199741247",
+                "size": 1050258202,
+                "download": 500313136
+              }
+            }
+          },
+          "4784143": {
+            "config": {
+              "language": "schinese"
+            },
+            "manifests": {
+              "public": {
+                "gid": "8151104724678619438",
+                "size": 1572411385,
+                "download": 888878224
+              }
+            }
+          },
+          "4784144": {
+            "config": {
+              "language": "arabic"
+            },
+            "manifests": {
+              "public": {
+                "gid": "1862244326402186253",
+                "size": 1013132294,
+                "download": 463325440
+              }
+            }
+          },
+          "4784145": {
+            "config": {
+              "language": "japanese"
+            },
+            "manifests": {
+              "public": {
+                "gid": "5777478370206754058",
+                "size": 1585593331,
+                "download": 923754384
+              }
+            }
+          },
+          "4784146": {
+            "config": {
+              "language": "polish"
+            },
+            "manifests": {
+              "public": {
+                "gid": "4754960661302296072",
+                "size": 1018351677,
+                "download": 468573952
+              }
+            }
+          },
+          "4784147": {
+            "config": {
+              "language": "russian"
+            },
+            "manifests": {
+              "public": {
+                "gid": "8777847475979996463",
+                "size": 1019034821,
+                "download": 469187616
+              }
+            }
+          },
+          "4784149": {
+            "manifests": {
+              "public": {
+                "gid": "6862952050998158737",
+                "size": 32277516,
+                "download": 30828480
+              }
+            }
+          },
+          "4784150": {
+            "manifests": {
+              "public": {
+                "gid": "4633129385645917060",
+                "size": 31686624,
+                "download": 30232736
+              }
+            }
+          },
+          "4784151": {
+            "manifests": {
+              "public": {
+                "gid": "2685354699927664557",
+                "size": 31650628,
+                "download": 30205664
+              }
+            }
+          },
+          "branches": {
+            "public": {
+              "buildid": 24929016,
+              "timeupdated": 1787853565,
+              "timebuildupdated": 1787664062
+            }
+          },
+          "privatebranches": 1
+        },
+        "ufs": {
+          "quota": 256000000,
+          "maxnumfiles": 128,
+          "savefiles": {
+            "0": {
+              "root": "WinAppDataLocal",
+              "path": "Activision/Call of Duty/playersBeta/{64BitSteamID}/SteamCloud",
+              "pattern": "*.*",
+              "platforms": {
+                "1": "Windows"
+              },
+              "recursive": 1
+            }
+          }
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4783780,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+          "type": "Game",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "exfgls": 1,
+          "eulas": {
+            "0": {
+              "id": "4783780_eula_1",
+              "name": "MW4 - Beta Game EULA",
+              "url": "https://store.steampowered.com//eula/4783780_eula_1",
+              "version": 1
+            }
+          },
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0628\u064a\u062a\u0627",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - B\u00e8ta",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beeta",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - B\u00eata",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30d9\u30fc\u30bf",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubca0\ud0c0",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0431\u0435\u0442\u0430-\u0442\u0435\u0441\u0442",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u8bd5\u73a9",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u516c\u6e2c",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e40\u0e1a\u0e15\u0e49\u0e32",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Beta",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0431\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0443\u0432\u0430\u043d\u043d\u0435"
+          },
+          "clienticon": "d5f178301f2fc710b72693bb299dc6eed8965b76",
+          "icon": "d5f178301f2fc710b72693bb299dc6eed8965b76",
+          "ReleaseState": "released",
+          "aicontenttype": "1",
+          "controllertagwizard": 1,
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "76e77b22c4c9e874ad565da068deee3569b831f4/capsule_231x87.jpg"
+          },
+          "header_image": {
+            "english": "8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg"
+          },
+          "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_hero_blur": "en",
+            "library_logo": "en",
+            "library_header": "en",
+            "logo_position": {
+              "pinned_position": "BottomCenter",
+              "width_pct": "40.519598906107575",
+              "height_pct": "30.695257717053437"
+            }
+          },
+          "library_assets_full": {
+            "library_capsule": {
+              "image": {
+                "english": "dfebb7ae692eee2c64d8c3340dadd56ae1093d6e/library_capsule.jpg"
+              },
+              "image2x": {
+                "english": "dfebb7ae692eee2c64d8c3340dadd56ae1093d6e/library_capsule_2x.jpg"
+              }
+            },
+            "library_hero": {
+              "image2x": {
+                "english": "35e51c60c79134fd742d98953e1a2dcbe34fbeb4/library_hero_2x.jpg"
+              },
+              "image": {
+                "english": "35e51c60c79134fd742d98953e1a2dcbe34fbeb4/library_hero.jpg"
+              }
+            },
+            "library_hero_blur": {
+              "image": {
+                "english": "35e51c60c79134fd742d98953e1a2dcbe34fbeb4/library_hero_blur.jpg"
+              }
+            },
+            "library_logo": {
+              "image": {
+                "english": "02bf74cd7af0662f400235b1db46a4b129457e05/logo.png"
+              },
+              "image2x": {
+                "english": "02bf74cd7af0662f400235b1db46a4b129457e05/logo_2x.png"
+              },
+              "logo_position": {
+                "pinned_position": "BottomCenter",
+                "width_pct": "40.519598906107575",
+                "height_pct": "30.695257717053437"
+              }
+            },
+            "library_header": {
+              "image": {
+                "english": "8c72205bfdf522bada8431d2aacbd1b6c66fac4c/library_header.jpg"
+              },
+              "image2x": {
+                "english": "8c72205bfdf522bada8431d2aacbd1b6c66fac4c/library_header_2x.jpg"
+              }
+            }
+          },
+          "store_asset_mtime": 1787941350,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Infinity Ward"
+            },
+            "1": {
+              "type": "developer",
+              "name": "Beenox"
+            },
+            "2": {
+              "type": "developer",
+              "name": "Digital Legends"
+            },
+            "3": {
+              "type": "developer",
+              "name": "Activision Shanghai"
+            },
+            "4": {
+              "type": "developer",
+              "name": "Raven Software"
+            },
+            "5": {
+              "type": "developer",
+              "name": "Treyarch"
+            },
+            "6": {
+              "type": "developer",
+              "name": "Sledgehammer Games"
+            },
+            "7": {
+              "type": "developer",
+              "name": "High Moon Studios"
+            },
+            "8": {
+              "type": "publisher",
+              "name": "Activision"
+            },
+            "9": {
+              "type": "franchise",
+              "name": "Call of Duty"
+            },
+            "10": {
+              "type": "franchise",
+              "name": "Modern Warfare"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1
+          },
+          "category": {
+            "category_23": 1,
+            "category_2": 1,
+            "category_1": 1,
+            "category_49": 1,
+            "category_36": 1,
+            "category_27": 1,
+            "category_18": 1,
+            "category_55": 1,
+            "category_56": 1,
+            "category_57": 1,
+            "category_58": 1,
+            "category_64": 1,
+            "category_65": 1,
+            "category_66": 1,
+            "category_67": 1,
+            "category_68": 1,
+            "category_69": 1,
+            "category_70": 1,
+            "category_74": 1,
+            "category_78": 1,
+            "category_79": 1,
+            "category_80": 1,
+            "category_45": 1,
+            "category_46": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "arabic": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "schinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "latam": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            }
+          },
+          "community_hub_visible": 1,
+          "gameid": 4783780,
+          "store_tags": {
+            "0": 19,
+            "1": 1774,
+            "2": 1663,
+            "3": 4145,
+            "4": 3839,
+            "5": 4168,
+            "6": 5765,
+            "7": 1775,
+            "8": 6730,
+            "9": 3859,
+            "10": 1742,
+            "11": 3843,
+            "12": 4182
+          },
+          "review_score": 4,
+          "review_percentage": 34,
+          "release_state": "released"
+        },
+        "extended": {
+          "developer": "Infinity Ward",
+          "publisher": "Activision",
+          "homepage": "https://www.callofduty.com/modernwarfare4/beta"
+        },
+        "config": {
+          "installdir": "Modern Warfare 4 - Beta",
+          "launch": {
+            "0": {
+              "executable": "bootstrapper.exe",
+              "arguments": "cod26-cod.exe",
+              "type": "default",
+              "config": {
+                "oslist": "windows",
+                "osarch": "64"
+              }
+            }
+          }
+        },
+        "depots": {
+          "4783781": {},
+          "4783782": {
+            "manifests": {
+              "public": {
+                "gid": "2652132447606849432",
+                "size": "48936458950",
+                "download": "46203844640"
+              }
+            }
+          },
+          "4783783": {
+            "manifests": {
+              "public": {
+                "gid": "6266261563234905629",
+                "size": 781364083,
+                "download": 394721936
+              }
+            }
+          },
+          "4783784": {
+            "config": {
+              "language": "english"
+            },
+            "manifests": {
+              "public": {
+                "gid": "294383838837726168",
+                "size": 509020077,
+                "download": 423295184
+              }
+            }
+          },
+          "4783785": {
+            "config": {
+              "language": "french"
+            },
+            "manifests": {
+              "public": {
+                "gid": "3418336288087719779",
+                "size": 540974420,
+                "download": 454056880
+              }
+            }
+          },
+          "4783786": {
+            "config": {
+              "language": "german"
+            },
+            "manifests": {
+              "public": {
+                "gid": "1853646411630344794",
+                "size": 542277746,
+                "download": 457383808
+              }
+            }
+          },
+          "4783787": {
+            "config": {
+              "language": "italian"
+            },
+            "manifests": {
+              "public": {
+                "gid": "2359933204470555045",
+                "size": 575763770,
+                "download": 490873168
+              }
+            }
+          },
+          "4783788": {
+            "config": {
+              "language": "spanish"
+            },
+            "manifests": {
+              "public": {
+                "gid": "2206166676104149545",
+                "size": 570363261,
+                "download": 485994528
+              }
+            }
+          },
+          "4783789": {
+            "config": {
+              "language": "koreana"
+            },
+            "manifests": {
+              "public": {
+                "gid": "7808045828660455155",
+                "size": 1536374048,
+                "download": 878509536
+              }
+            }
+          },
+          "4784140": {
+            "config": {
+              "language": "brazilian"
+            },
+            "manifests": {
+              "public": {
+                "gid": "8649150717483882142",
+                "size": 548055555,
+                "download": 463808896
+              }
+            }
+          },
+          "4784141": {
+            "config": {
+              "language": "latam"
+            },
+            "manifests": {
+              "public": {
+                "gid": "5736531904449317332",
+                "size": 556008428,
+                "download": 471434432
+              }
+            }
+          },
+          "4784142": {
+            "config": {
+              "language": "tchinese"
+            },
+            "manifests": {
+              "public": {
+                "gid": "6060425366199741247",
+                "size": 1050258202,
+                "download": 500313136
+              }
+            }
+          },
+          "4784143": {
+            "config": {
+              "language": "schinese"
+            },
+            "manifests": {
+              "public": {
+                "gid": "8151104724678619438",
+                "size": 1572411385,
+                "download": 888878224
+              }
+            }
+          },
+          "4784144": {
+            "config": {
+              "language": "arabic"
+            },
+            "manifests": {
+              "public": {
+                "gid": "1862244326402186253",
+                "size": 1013132294,
+                "download": 463325440
+              }
+            }
+          },
+          "4784145": {
+            "config": {
+              "language": "japanese"
+            },
+            "manifests": {
+              "public": {
+                "gid": "5777478370206754058",
+                "size": 1585593331,
+                "download": 923754384
+              }
+            }
+          },
+          "4784146": {
+            "config": {
+              "language": "polish"
+            },
+            "manifests": {
+              "public": {
+                "gid": "4754960661302296072",
+                "size": 1018351677,
+                "download": 468573952
+              }
+            }
+          },
+          "4784147": {
+            "config": {
+              "language": "russian"
+            },
+            "manifests": {
+              "public": {
+                "gid": "8777847475979996463",
+                "size": 1019034821,
+                "download": 469187616
+              }
+            }
+          },
+          "4784149": {
+            "manifests": {
+              "public": {
+                "gid": "6862952050998158737",
+                "size": 32277516,
+                "download": 30828480
+              }
+            }
+          },
+          "4784150": {
+            "manifests": {
+              "public": {
+                "gid": "4633129385645917060",
+                "size": 31686624,
+                "download": 30232736
+              }
+            }
+          },
+          "4784151": {
+            "manifests": {
+              "public": {
+                "gid": "2685354699927664557",
+                "size": 31650628,
+                "download": 30205664
+              }
+            }
+          },
+          "branches": {
+            "public": {
+              "buildid": 24929016,
+              "timeupdated": 1787853565,
+              "timebuildupdated": 1787664062
+            }
+          },
+          "privatebranches": 1
+        },
+        "ufs": {
+          "quota": 256000000,
+          "maxnumfiles": 128,
+          "savefiles": {
+            "0": {
+              "root": "WinAppDataLocal",
+              "path": "Activision/Call of Duty/playersBeta/{64BitSteamID}/SteamCloud",
+              "pattern": "*.*",
+              "platforms": {
+                "1": "Windows"
+              },
+              "recursive": 1
+            }
+          }
+        }
+      }
+    }
+  },
+  "4435490": {
+    "original": {
+      "appinfo": {
+        "appid": 4435490,
+        "public_only": 1,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "prerelease",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358 \uc6cc\ud398\uc5b4 4",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "schinese": "\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "tchinese": "\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
+          },
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "icon": "91af283eab8b68667d9121cfd3d3b322abc4eb3b",
+          "exfgls": 9,
+          "section_type": "ownersonly",
+          "content_descriptors": {
+            "0": 2,
+            "1": 5
+          },
+          "aicontenttype": 1,
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "50d218e79ead2650bc6b7360995cc8dd3fbe2c29/capsule_231x87.jpg",
+            "japanese": "733264f0bfe2db164d42ea7f7f19fd5a0b364294/capsule_231x87_japanese.jpg",
+            "koreana": "b9fb9a94af9ab627be81bde20a8aa40e3e180175/capsule_231x87_koreana.jpg",
+            "schinese": "7b6bd5b490991f24d46bd4a9542a0656a60a70a2/capsule_231x87_schinese.jpg",
+            "tchinese": "4d9dbc2677201020d98bd0d975906f0e6cd779ea/capsule_231x87_tchinese.jpg"
+          },
+          "header_image": {
+            "english": "0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+            "tchinese": "f3c9d9d7793ad9259f34e6d671aca97dd35e4ab7/header_tchinese.jpg",
+            "koreana": "1b43b29d30d31ec134f876d30ed1a13706875a25/header_koreana.jpg",
+            "japanese": "47d9fe2f127eda61898acdefbfa8907503ac3c7a/header_japanese.jpg",
+            "schinese": "79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg"
+          },
+          "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_hero_blur": "en",
+            "library_logo": "en",
+            "library_header": "en",
+            "logo_position": {
+              "pinned_position": "BottomCenter",
+              "width_pct": "49.53434225844006",
+              "height_pct": "62.91854666350036"
+            }
+          },
+          "library_assets_full": {
+            "library_capsule": {
+              "image": {
+                "english": "c71bc2cb60e440d1a0d2435d0c06c4d4a4050edf/library_capsule.jpg"
+              },
+              "image2x": {
+                "english": "c71bc2cb60e440d1a0d2435d0c06c4d4a4050edf/library_capsule_2x.jpg"
+              }
+            },
+            "library_hero": {
+              "image2x": {
+                "english": "4138eadd1bb476b0499f6ee7690aba461fdf179c/library_hero_2x.jpg"
+              },
+              "image": {
+                "english": "4138eadd1bb476b0499f6ee7690aba461fdf179c/library_hero.jpg"
+              }
+            },
+            "library_hero_blur": {
+              "image": {
+                "english": "4138eadd1bb476b0499f6ee7690aba461fdf179c/library_hero_blur.jpg"
+              }
+            },
+            "library_logo": {
+              "image": {
+                "english": "5cc1d9ffc6a8fde4e601f51714a3c3a0d97f70e1/logo.png"
+              },
+              "image2x": {
+                "english": "5cc1d9ffc6a8fde4e601f51714a3c3a0d97f70e1/logo_2x.png"
+              },
+              "logo_position": {
+                "pinned_position": "BottomCenter",
+                "width_pct": "49.53434225844006",
+                "height_pct": "62.91854666350036"
+              }
+            },
+            "library_header": {
+              "image": {
+                "english": "361db6d1548e1175133e970d666d94045549ed14/library_header.jpg"
+              },
+              "image2x": {
+                "english": "361db6d1548e1175133e970d666d94045549ed14/library_header_2x.jpg"
+              }
+            }
+          },
+          "store_asset_mtime": 1788361285,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Infinity Ward"
+            },
+            "1": {
+              "type": "developer",
+              "name": "Beenox"
+            },
+            "2": {
+              "type": "developer",
+              "name": "Digital Legends"
+            },
+            "3": {
+              "type": "developer",
+              "name": "Activision Shanghai"
+            },
+            "4": {
+              "type": "developer",
+              "name": "Raven Software"
+            },
+            "5": {
+              "type": "developer",
+              "name": "Treyarch"
+            },
+            "6": {
+              "type": "developer",
+              "name": "Sledgehammer Games"
+            },
+            "7": {
+              "type": "developer",
+              "name": "High Moon Studios"
+            },
+            "8": {
+              "type": "publisher",
+              "name": "Activision"
+            },
+            "9": {
+              "type": "franchise",
+              "name": "Call of Duty"
+            },
+            "10": {
+              "type": "franchise",
+              "name": "Modern Warfare"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1
+          },
+          "category": {
+            "category_2": 1,
+            "category_1": 1,
+            "category_36": 1,
+            "category_38": 1,
+            "category_27": 1,
+            "category_49": 1,
+            "category_9": 1,
+            "category_22": 1,
+            "category_13": 1,
+            "category_35": 1,
+            "category_45": 1,
+            "category_46": 1,
+            "category_18": 1,
+            "category_55": 1,
+            "category_56": 1,
+            "category_57": 1,
+            "category_58": 1,
+            "category_59": 1,
+            "category_64": 1,
+            "category_65": 1,
+            "category_66": 1,
+            "category_67": 1,
+            "category_68": 1,
+            "category_69": 1,
+            "category_70": 1,
+            "category_74": 1,
+            "category_61": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "latam": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "arabic": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "schinese": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            }
+          },
+          "gameid": 4435490,
+          "content_descriptors_including_dlc": {
+            "0": 2,
+            "1": 5
+          },
+          "store_tags": {
+            "0": 19,
+            "1": 1774,
+            "2": 1663,
+            "3": 3839,
+            "4": 1775,
+            "5": 3859,
+            "6": 4145,
+            "7": 5765,
+            "8": 1742,
+            "9": 1685,
+            "10": 4182,
+            "11": 3843,
+            "12": 7926,
+            "13": 4168,
+            "14": 1678,
+            "15": 1708,
+            "16": 5673,
+            "17": 3993,
+            "18": 4667,
+            "19": 3878
+          }
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435490,
+        "public_only": 1,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358 \uc6cc\ud398\uc5b4 4",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "schinese": "\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "tchinese": "\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4"
+          },
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "icon": "91af283eab8b68667d9121cfd3d3b322abc4eb3b",
+          "exfgls": 9,
+          "section_type": "ownersonly",
+          "content_descriptors": {
+            "0": 2,
+            "1": 5
+          },
+          "aicontenttype": 1,
+          "controller_support": "partial",
+          "small_capsule": {
+            "english": "50d218e79ead2650bc6b7360995cc8dd3fbe2c29/capsule_231x87.jpg",
+            "japanese": "733264f0bfe2db164d42ea7f7f19fd5a0b364294/capsule_231x87_japanese.jpg",
+            "koreana": "b9fb9a94af9ab627be81bde20a8aa40e3e180175/capsule_231x87_koreana.jpg",
+            "schinese": "7b6bd5b490991f24d46bd4a9542a0656a60a70a2/capsule_231x87_schinese.jpg",
+            "tchinese": "4d9dbc2677201020d98bd0d975906f0e6cd779ea/capsule_231x87_tchinese.jpg"
+          },
+          "header_image": {
+            "english": "0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg",
+            "tchinese": "f3c9d9d7793ad9259f34e6d671aca97dd35e4ab7/header_tchinese.jpg",
+            "koreana": "1b43b29d30d31ec134f876d30ed1a13706875a25/header_koreana.jpg",
+            "japanese": "47d9fe2f127eda61898acdefbfa8907503ac3c7a/header_japanese.jpg",
+            "schinese": "79d905167ca63114aea0e52cf12111c3c3f5b81e/header_schinese.jpg"
+          },
+          "library_assets": {
+            "library_capsule": "en",
+            "library_hero": "en",
+            "library_hero_blur": "en",
+            "library_logo": "en",
+            "library_header": "en",
+            "logo_position": {
+              "pinned_position": "BottomCenter",
+              "width_pct": "49.53434225844006",
+              "height_pct": "62.91854666350036"
+            }
+          },
+          "library_assets_full": {
+            "library_capsule": {
+              "image": {
+                "english": "c71bc2cb60e440d1a0d2435d0c06c4d4a4050edf/library_capsule.jpg"
+              },
+              "image2x": {
+                "english": "c71bc2cb60e440d1a0d2435d0c06c4d4a4050edf/library_capsule_2x.jpg"
+              }
+            },
+            "library_hero": {
+              "image2x": {
+                "english": "4138eadd1bb476b0499f6ee7690aba461fdf179c/library_hero_2x.jpg"
+              },
+              "image": {
+                "english": "4138eadd1bb476b0499f6ee7690aba461fdf179c/library_hero.jpg"
+              }
+            },
+            "library_hero_blur": {
+              "image": {
+                "english": "4138eadd1bb476b0499f6ee7690aba461fdf179c/library_hero_blur.jpg"
+              }
+            },
+            "library_logo": {
+              "image": {
+                "english": "5cc1d9ffc6a8fde4e601f51714a3c3a0d97f70e1/logo.png"
+              },
+              "image2x": {
+                "english": "5cc1d9ffc6a8fde4e601f51714a3c3a0d97f70e1/logo_2x.png"
+              },
+              "logo_position": {
+                "pinned_position": "BottomCenter",
+                "width_pct": "49.53434225844006",
+                "height_pct": "62.91854666350036"
+              }
+            },
+            "library_header": {
+              "image": {
+                "english": "361db6d1548e1175133e970d666d94045549ed14/library_header.jpg"
+              },
+              "image2x": {
+                "english": "361db6d1548e1175133e970d666d94045549ed14/library_header_2x.jpg"
+              }
+            }
+          },
+          "store_asset_mtime": 1788361285,
+          "associations": {
+            "0": {
+              "type": "developer",
+              "name": "Infinity Ward"
+            },
+            "1": {
+              "type": "developer",
+              "name": "Beenox"
+            },
+            "2": {
+              "type": "developer",
+              "name": "Digital Legends"
+            },
+            "3": {
+              "type": "developer",
+              "name": "Activision Shanghai"
+            },
+            "4": {
+              "type": "developer",
+              "name": "Raven Software"
+            },
+            "5": {
+              "type": "developer",
+              "name": "Treyarch"
+            },
+            "6": {
+              "type": "developer",
+              "name": "Sledgehammer Games"
+            },
+            "7": {
+              "type": "developer",
+              "name": "High Moon Studios"
+            },
+            "8": {
+              "type": "publisher",
+              "name": "Activision"
+            },
+            "9": {
+              "type": "franchise",
+              "name": "Call of Duty"
+            },
+            "10": {
+              "type": "franchise",
+              "name": "Modern Warfare"
+            }
+          },
+          "primary_genre": 1,
+          "genres": {
+            "0": 1
+          },
+          "category": {
+            "category_2": 1,
+            "category_1": 1,
+            "category_36": 1,
+            "category_38": 1,
+            "category_27": 1,
+            "category_49": 1,
+            "category_9": 1,
+            "category_22": 1,
+            "category_13": 1,
+            "category_35": 1,
+            "category_45": 1,
+            "category_46": 1,
+            "category_18": 1,
+            "category_55": 1,
+            "category_56": 1,
+            "category_57": 1,
+            "category_58": 1,
+            "category_59": 1,
+            "category_64": 1,
+            "category_65": 1,
+            "category_66": 1,
+            "category_67": 1,
+            "category_68": 1,
+            "category_69": 1,
+            "category_70": 1,
+            "category_74": 1,
+            "category_61": 1
+          },
+          "supported_languages": {
+            "english": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "french": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "italian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "german": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "spanish": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            },
+            "koreana": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "polish": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "russian": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "tchinese": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "japanese": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "latam": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "arabic": {
+              "supported": "true",
+              "subtitles": "true"
+            },
+            "schinese": {
+              "supported": "true",
+              "subtitles": "true",
+              "full_audio": "true"
+            },
+            "brazilian": {
+              "supported": "true",
+              "full_audio": "true",
+              "subtitles": "true"
+            }
+          },
+          "gameid": 4435490,
+          "content_descriptors_including_dlc": {
+            "0": 2,
+            "1": 5
+          },
+          "store_tags": {
+            "0": 19,
+            "1": 1774,
+            "2": 1663,
+            "3": 3839,
+            "4": 1775,
+            "5": 3859,
+            "6": 4145,
+            "7": 5765,
+            "8": 1742,
+            "9": 1685,
+            "10": 4182,
+            "11": 3843,
+            "12": 7926,
+            "13": 4168,
+            "14": 1678,
+            "15": 1708,
+            "16": 5673,
+            "17": 3993,
+            "18": 4667,
+            "19": 3878
+          },
+          "release_state": "released"
+        }
+      }
+    }
+  },
+  "4435650": {
+    "original": {
+      "appinfo": {
+        "appid": 4435650,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - BEA",
+          "type": "Config",
+          "parent": 4783780,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435650
+        },
+        "extended": {
+          "dlcforappid": 4783780,
+          "mustownapptopurchase": 4783780,
+          "activationonlydlc": 1,
+          "additionalcontentforapps": {
+            "1938090": 1
+          }
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435650,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - BEA",
+          "type": "Config",
+          "parent": 4783780,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435650,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 4783780,
+          "mustownapptopurchase": 4783780,
+          "activationonlydlc": 1,
+          "additionalcontentforapps": {
+            "1938090": 1
+          }
+        }
+      }
+    }
+  },
+  "4435670": {
+    "original": {
+      "appinfo": {
+        "appid": 4435670,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - POWL",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "gameid": 4435670
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435670,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - POWL",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "gameid": 4435670,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435520": {
+    "original": {
+      "appinfo": {
+        "appid": 4435520,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 1",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0642\u064a\u0627\u0633\u064a 1",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 1 da Edi\u00e7\u00e3o Padr\u00e3o",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 1",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pack 1",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition \u2011pakkaus 1",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack \u00c9dition Standard 1",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard-Edition-Paket 1",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Standard 1",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u7248 \u30d1\u30c3\u30af1",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \uc2a4\ud0e0\ub2e4\ub4dc \uc5d0\ub514\uc158 \ud329 1",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Edici\u00f3n Est\u00e1ndar Paquete 1",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pakke 1",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Standardowej 1",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 1 da Standard Edition",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Standard Edition 1",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u6807\u51c6\u53051",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de Edici\u00f3n Est\u00e1ndar 1",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4\u00a0- Standard Edition-paket 1",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u6a19\u6e96\u7248\u7d44\u5408\u53051",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Standard Edition 1",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standart S\u00fcr\u00fcm Paketi 1",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 Standard Edition 1"
+          },
+          "gameid": 4435520,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435520,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 1",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0642\u064a\u0627\u0633\u064a 1",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 1 da Edi\u00e7\u00e3o Padr\u00e3o",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 1",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pack 1",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition \u2011pakkaus 1",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack \u00c9dition Standard 1",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard-Edition-Paket 1",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Standard 1",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u7248 \u30d1\u30c3\u30af1",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \uc2a4\ud0e0\ub2e4\ub4dc \uc5d0\ub514\uc158 \ud329 1",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Edici\u00f3n Est\u00e1ndar Paquete 1",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pakke 1",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Standardowej 1",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 1 da Standard Edition",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Standard Edition 1",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u6807\u51c6\u53051",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de Edici\u00f3n Est\u00e1ndar 1",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4\u00a0- Standard Edition-paket 1",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u6a19\u6e96\u7248\u7d44\u5408\u53051",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Standard Edition 1",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standart S\u00fcr\u00fcm Paketi 1",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 Standard Edition 1"
+          },
+          "gameid": 4435520,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435530": {
+    "original": {
+      "appinfo": {
+        "appid": 4435530,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 2",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0642\u064a\u0627\u0633\u064a 2",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 2 da Edi\u00e7\u00e3o Padr\u00e3o",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 2",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pack 2",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition \u2011pakkaus 2",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack \u00c9dition Standard 2",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard-Edition-Paket 2",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Standard 2",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u7248 \u30d1\u30c3\u30af2",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \uc2a4\ud0e0\ub2e4\ub4dc \uc5d0\ub514\uc158 \ud329 2",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Edici\u00f3n Est\u00e1ndar Paquete 2",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pakke 2",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Standardowej 2",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 2 da Standard Edition",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Standard Edition 2",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u6807\u51c6\u53052",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de Edici\u00f3n Est\u00e1ndar 2",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4\u00a0- Standard Edition-paket 2",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u6a19\u6e96\u7248\u7d44\u5408\u53052",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Standard Edition 2",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standart S\u00fcr\u00fcm Paketi 2",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 Standard Edition 2"
+          },
+          "gameid": 4435530,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435530,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 2",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0642\u064a\u0627\u0633\u064a 2",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 2 da Edi\u00e7\u00e3o Padr\u00e3o",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 2",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pack 2",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition \u2011pakkaus 2",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack \u00c9dition Standard 2",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard-Edition-Paket 2",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Standard 2",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u7248 \u30d1\u30c3\u30af2",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \uc2a4\ud0e0\ub2e4\ub4dc \uc5d0\ub514\uc158 \ud329 2",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Edici\u00f3n Est\u00e1ndar Paquete 2",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pakke 2",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Standardowej 2",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 2 da Standard Edition",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Standard Edition 2",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u6807\u51c6\u53052",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de Edici\u00f3n Est\u00e1ndar 2",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4\u00a0- Standard Edition-paket 2",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u6a19\u6e96\u7248\u7d44\u5408\u53052",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Standard Edition 2",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standart S\u00fcr\u00fcm Paketi 2",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 Standard Edition 2"
+          },
+          "gameid": 4435530,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435540": {
+    "original": {
+      "appinfo": {
+        "appid": 4435540,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 3",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0642\u064a\u0627\u0633\u064a 3",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 3 da Edi\u00e7\u00e3o Padr\u00e3o",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 3",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pack 3",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition \u2011pakkaus 3",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack \u00c9dition Standard 3",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard-Edition-Paket 3",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Standard 3",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u7248 \u30d1\u30c3\u30af3",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \uc2a4\ud0e0\ub2e4\ub4dc \uc5d0\ub514\uc158 \ud329 3",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Edici\u00f3n Est\u00e1ndar Paquete 3",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pakke 3",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Standardowej 3",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 3 da Standard Edition",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Standard Edition 3",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u6807\u51c6\u53053",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de Edici\u00f3n Est\u00e1ndar 3",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4\u00a0- Standard Edition-paket 3",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u6a19\u6e96\u7248\u7d44\u5408\u53053",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Standard Edition 3",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standart S\u00fcr\u00fcm Paketi 3",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 Standard Edition 3"
+          },
+          "gameid": 4435540,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435540,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 3",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0627\u0644\u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u0642\u064a\u0627\u0633\u064a 3",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 3 da Edi\u00e7\u00e3o Padr\u00e3o",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition Pack 3",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pack 3",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition \u2011pakkaus 3",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack \u00c9dition Standard 3",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard-Edition-Paket 3",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Standard 3",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u30b9\u30bf\u30f3\u30c0\u30fc\u30c9\u7248 \u30d1\u30c3\u30af3",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \uc2a4\ud0e0\ub2e4\ub4dc \uc5d0\ub514\uc158 \ud329 3",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Edici\u00f3n Est\u00e1ndar Paquete 3",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standard Edition-pakke 3",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Standardowej 3",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 3 da Standard Edition",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Standard Edition 3",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b\u6807\u51c6\u53053",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de Edici\u00f3n Est\u00e1ndar 3",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4\u00a0- Standard Edition-paket 3",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u6a19\u6e96\u7248\u7d44\u5408\u53053",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Standard Edition 3",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Standart S\u00fcr\u00fcm Paketi 3",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 Standard Edition 3"
+          },
+          "gameid": 4435540,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435620": {
+    "original": {
+      "appinfo": {
+        "appid": 4435620,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - V IGSP",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435620
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435620,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - V IGSP",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435620,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435550": {
+    "original": {
+      "appinfo": {
+        "appid": 4435550,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 1",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 1",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 1 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 1",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 1",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 1",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 1",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 1",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 1",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af1",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 1",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 1",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 1",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 1",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 1 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 1",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53051",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 1",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 1",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53051",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 1",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 1",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 1"
+          },
+          "gameid": 4435550,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435550,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 1",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 1",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 1 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 1",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 1",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 1",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 1",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 1",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 1",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af1",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 1",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 1",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 1",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 1",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 1 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 1",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53051",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 1",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 1",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53051",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 1",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 1",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 1"
+          },
+          "gameid": 4435550,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435560": {
+    "original": {
+      "appinfo": {
+        "appid": 4435560,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 2",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 2",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 2 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 2",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 2",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 2",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 2",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 2",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 2",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af2",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 2",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 2",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 2",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 2",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 2 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 2",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53052",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 2",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 2",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53052",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 2",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 2",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 2"
+          },
+          "gameid": 4435560,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435560,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 2",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 2",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 2 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 2",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 2",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 2",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 2",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 2",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 2",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af2",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 2",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 2",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 2",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 2",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 2 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 2",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53052",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 2",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 2",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53052",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 2",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 2",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 2"
+          },
+          "gameid": 4435560,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435570": {
+    "original": {
+      "appinfo": {
+        "appid": 4435570,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 3",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 3",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 3 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 3",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 3",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 3",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 3",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 3",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 3",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af3",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 3",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 3",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 3",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 3",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 3 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 3",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53053",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 3",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 3",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53053",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 3",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 3",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 3"
+          },
+          "gameid": 4435570,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435570,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 3",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 3",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 3 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 3",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 3",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 3",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 3",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 3",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 3",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af3",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 3",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 3",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 3",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 3",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 3 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 3",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53053",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 3",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 3",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53053",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 3",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 3",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 3"
+          },
+          "gameid": 4435570,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435580": {
+    "original": {
+      "appinfo": {
+        "appid": 4435580,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 4",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 4",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 4 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 4",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 4",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 4",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 4",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 4",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 4",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af4",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 4",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 4",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 4",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 4",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 4 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 4",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53054",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 4",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 4",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53054",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 4",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 4",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 4"
+          },
+          "gameid": 4435580,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435580,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 4",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 4",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 4 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 4",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 4",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 4",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 4",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 4",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 4",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af4",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 4",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 4",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 4",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 4",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 4 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 4",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53054",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 4",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 4",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53054",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 4",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 4",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 4"
+          },
+          "gameid": 4435580,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4607020": {
+    "original": {
+      "appinfo": {
+        "appid": 4607020,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 5",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 5",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 5 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 5",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 5",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 5",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 5",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 5",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 5",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af5",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 5",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 5",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 5",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 5",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 5 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 5",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53055",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 5",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 5",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53055",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 5",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 5",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 5"
+          },
+          "gameid": 4607020,
+          "exfgls": 9
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4607020,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 5",
+          "type": "DLC",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "name_localized": {
+            "arabic": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u062d\u0632\u0645\u0629 \u0625\u0635\u062f\u0627\u0631 \u0627\u0644\u062e\u0632\u064a\u0646\u0629 5",
+            "brazilian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacote 5 da Edi\u00e7\u00e3o Cofre",
+            "danish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition Pack 5",
+            "dutch": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pack 5",
+            "finnish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition \u2011pakkaus 5",
+            "french": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack Coffre d'armes 5",
+            "german": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-Paket 5",
+            "italian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pacchetto Edizione Cassaforte 5",
+            "japanese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u79d8\u8535\u7248\u30d1\u30c3\u30af5",
+            "koreana": "\ucf5c \uc624\ube0c \ub4c0\ud2f0\u00ae: \ubaa8\ub358\u00a0\uc6cc\ud398\uc5b4\u00a04 - \ubcfc\ud2b8 \uc5d0\ub514\uc158 \ud329 5",
+            "latam": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete Edici\u00f3n B\u00f3veda 5",
+            "norwegian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-pakke 5",
+            "polish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pakiet Edycji Skarbca 5",
+            "portuguese": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Pack 5 da Edi\u00e7\u00e3o Vault",
+            "russian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u043e\u0440 Vault Edition 5",
+            "schinese": "\u300a\u4f7f\u547d\u53ec\u5524\u00ae\uff1a\u73b0\u4ee3\u6218\u4e89\u00ae 4\u300b- \u91d1\u5e93\u53055",
+            "spanish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Paquete de la Edici\u00f3n de Archivo 5",
+            "swedish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault Edition-paket 5",
+            "tchinese": "\u300a\u6c7a\u52dd\u6642\u523b\u00ae\uff1a\u73fe\u4ee3\u6230\u722d\u00ae 4\u300b- \u5bf6\u5eab\u7248\u7d44\u5408\u53055",
+            "thai": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u0e41\u0e1e\u0e47\u0e01 Vault Edition 5",
+            "turkish": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Kasa S\u00fcr\u00fcm\u00fc Paketi 5",
+            "ukrainian": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - \u043d\u0430\u0431\u0456\u0440 \u0432\u0438\u0434\u0430\u043d\u043d\u044f Vault Edition 5"
+          },
+          "gameid": 4607020,
+          "exfgls": 9,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435640": {
+    "original": {
+      "appinfo": {
+        "appid": 4435640,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault PO License",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "name_localized": {},
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435640
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435640,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 - Vault PO License",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "name_localized": {},
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435640,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  },
+  "4435600": {
+    "original": {
+      "appinfo": {
+        "appid": 4435600,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 SPO",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435600
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    },
+    "modified": {
+      "appinfo": {
+        "appid": 4435600,
+        "common": {
+          "name": "Call of Duty\u00ae: Modern Warfare\u00ae 4 SPO",
+          "type": "Config",
+          "parent": 1938090,
+          "ReleaseState": "released",
+          "oslist": "windows",
+          "osarch": "64",
+          "osextended": "",
+          "gameid": 4435600,
+          "release_state": "released"
+        },
+        "extended": {
+          "dlcforappid": 1938090,
+          "mustownapptopurchase": 1938090,
+          "activationonlydlc": 1
+        }
+      }
+    }
+  }
+}

@@ -1,4 +1,4 @@
-# A Metadata Editor for Steam Applications
+﻿# A Metadata Editor for Steam Applications
 # Copyright (C) 2023  Tomás Ralph
 #
 # This program is free software: you can redistribute it and/or modify
@@ -110,9 +110,12 @@ class Appinfo:
         subsection = {}
         value_parsers = {
             self.INT_TYPE_DICT: self.parse_subsections,
-            self.INT_TYPE_STRING: self.read_string,
+            self.INT_TYPE_STRING: (
+                self.read_string_appinfo29
+                if self.version == APPINFO_29
+                else self.read_string
+            ),
             self.INT_TYPE_INT32: self.read_uint32,
-            0x0A: self.read_int64,
         }
 
         while True:
@@ -378,3 +381,4 @@ class Appinfo:
                     )
 
         return formatted_data
+
