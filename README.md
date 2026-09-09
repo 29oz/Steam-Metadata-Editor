@@ -1,6 +1,11 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=flat-square)](https://github.com/tralph3/Steam-Metadata-Editor/blob/master/LICENSE)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square)](https://paypal.me/tralph3)
 
+# How To Open
+open terminal inside folder and run command:
+
+Stop-Process -Id 32156 -ErrorAction SilentlyContinue; Start-Sleep -Seconds 1; Start-Process python -ArgumentList 'src\main.py' -WorkingDirectory 'C:\Users\sidne\Steam-Metadata-Editor'; Start-Sleep -Seconds 4; Get-Process python -ErrorAction SilentlyContinue | Select-Object Id, StartTime
+
 # Steam Metadata Editor
 
 **Edit game titles, launch menus, and more**
